@@ -11,9 +11,6 @@ void method() {
 }
 
 int main() {
-	std::cout << "new line of code in quick test" << std::endl;
-	std::cout << "new line of code in master test" << std::endl;
-
 	printf("Hello World!");
 	printf("fuck git");
 	{
